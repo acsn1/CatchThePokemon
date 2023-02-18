@@ -1,1 +1,1 @@
-## CatchThePokemon
+## CatchThePokemon - Project 2
